@@ -1,0 +1,32 @@
+var levels = [
+
+    [
+
+        [
+            "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue",
+        ],
+        [
+            "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue",
+        ],
+        [
+            "red", "red", "red", "red", "red", "red", "red", "red", "red", "red",
+        ],
+        [
+            "red", "red", "red", "red", "red", "red", "red", "red", "red", "red",
+        ],
+        [
+            "yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow",
+        ],
+        [
+            "yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow", "yellow",
+        ],
+        [
+            "green", "green", "green", "green", "green", "green", "green", "green", "green", "green",
+        ],
+        [
+            "green", "green", "green", "green", "green", "green", "green", "green", "green", "green",
+        ],
+
+    ]
+
+];

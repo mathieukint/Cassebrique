@@ -1,0 +1,91 @@
+html
+{
+    width: 100%;
+    height: 100%;
+}
+
+body{
+    background: radial-gradient(ellipse at center, #6C6C89 0%, #28285E 100%)
+}
+
+.Aire2Jeu
+{
+    background: rgb(7, 7, 94);
+    width: 1040px;  /* 80% */
+    height: 600px;  /* 80% */
+    top: 10%;
+    left: 10%;
+    position: absolute;
+    border-radius: 4px;
+    border: solid 4px brown;
+    box-shadow: 2px 4px 4px black;
+    z-index: 0;
+    cursor: none;
+}
+
+.ball
+{
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background: rgb(255, 95, 2);
+    box-shadow: 1px 2px 2px grey;
+    pointer-events: none;
+}
+
+.brick
+{
+    display: inline-block;
+    position: absolute;
+    width: 100px;
+    height: 30px;
+    border: solid 2px black;
+    box-shadow: 1px 2px 2px grey;
+    pointer-events: none;
+}
+
+.blueBrick
+{
+    background: rgb(100, 5, 189);
+}
+
+.redBrick
+{
+    background: red;
+}
+
+.yellowBrick
+{
+    background:yellow;
+}
+
+.greenBrick
+{
+    background: green;
+}
+
+.racket
+{
+    position: absolute;
+    width: 100px;
+    height: 14px;
+    bottom: 12px;
+    left: 320px;
+    border-radius: 4px;
+    background: silver;
+    box-shadow: 1px 2px 2px grey;
+    pointer-events: none;
+}
+
+.lblCurrentLevel 
+{
+    position: absolute;
+    left: 32%;
+    top: 44%;
+    z-index: 1;
+    font-size: 400%;
+    font-weight: bold;
+    color: white;
+    text-shadow: 1px 1px 17px black;
+}
