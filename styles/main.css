@@ -11,7 +11,7 @@ body{
 .Aire2Jeu
 {
     background: rgb(7, 7, 94);
-    width: 1040px;  /* 80% */
+    width: 1040px; /*80%*/
     height: 600px;  /* 80% */
     top: 10%;
     left: 10%;
@@ -68,10 +68,10 @@ body{
 .racket
 {
     position: absolute;
-    width: 100px;
-    height: 14px;
-    bottom: 12px;
-    left: 320px;
+    width: 10%;
+    height: 2%;
+    bottom: 2%;
+    left: 45%;
     border-radius: 4px;
     background: silver;
     box-shadow: 1px 2px 2px grey;
